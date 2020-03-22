@@ -57,8 +57,6 @@ c:建立压缩文档
 
 #### Linux 的文件权限
 
-![image-20200322180100901](/Users/will.zuo/Library/Application Support/typora-user-images/image-20200322180100901.png)
-
 - 权限的粒度有 拥有者(u)/群组(g)/其他组(o) 三种
 - 权限类型包括 读/写/执行 权限
 - 读（r）：4；写（w）：2；执行（x）：1
